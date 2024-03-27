@@ -15,5 +15,11 @@ Nesta seção, foi desenvolvida uma calculadora de exemplo que oferece todas as 
 
 ![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/c87bb862-555a-4044-9b6b-3c4847036fda)
 
+### 07 - Trabalhando com os verbos HTTP, GET, POST, PUT e DELETE
+Nesta seção, foi explorado o uso dos verbos HTTP GET, POST, PUT e DELETE em uma aplicação de teste. Para simular dados, foi utilizado um método `mockPerson` que gera informações para simular dados durante o desenvolvimento da aplicação.
+
+![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/b2b7390c-d4a6-4c3c-a9f8-2038292f640b)
+
+
 
 ---
