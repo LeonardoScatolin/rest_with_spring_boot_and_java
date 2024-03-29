@@ -30,6 +30,12 @@ Nesta seção, foi introduzido o padrão VO (Value Object), que visa ocultar as 
 
 ![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/dba4a8f6-69e0-4b5f-a9b0-0a8c01f531a0)
 
+### 10 - Versionamento de endpoints
+Nesta seção, a rota `v2` foi criada para adicionar o campo `birthDay` no banco de dados, e a classe `PersonVOV2` foi introduzida para lidar com essa atualização, mantendo a compatibilidade com versões anteriores da API.
+
+![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/a5e6cbec-fa2f-4a45-a5b6-b06eae0298e2)
+
+
 
 
 
