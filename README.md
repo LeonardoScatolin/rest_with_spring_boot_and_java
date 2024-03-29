@@ -20,6 +20,13 @@ Nesta seção, foi explorado o uso dos verbos HTTP GET, POST, PUT e DELETE em um
 
 ![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/b2b7390c-d4a6-4c3c-a9f8-2038292f640b)
 
+### 08 - Conectando com banco de dados MySQL
+Nesta seção, foi adicionada a dependência do MySQL no arquivo `pom.xml`, estabelecida a conexão com o banco de dados MySQL através do arquivo `application.yml`, e adicionadas as anotações do JPA para criação das tabelas e colunas do banco de dados. Além disso, o Hibernate foi configurado para interpretar essas anotações e gerar o código SQL necessário para realizar operações como criar, atualizar, recuperar e excluir dados no banco de dados.
+
+![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/35310ba3-b58d-4cfd-94de-9ee0fa257365)
+
+
+
 
 
 ---
