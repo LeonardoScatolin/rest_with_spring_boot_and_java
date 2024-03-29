@@ -25,6 +25,10 @@ Nesta seção, foi adicionada a dependência do MySQL no arquivo `pom.xml`, esta
 
 ![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/35310ba3-b58d-4cfd-94de-9ee0fa257365)
 
+### 09 - Trabalhando com padrão VO
+Nesta seção, foi introduzido o padrão VO (Value Object), que visa ocultar as informações do banco de dados para serem enviadas para o servidor. Também foram realizados testes unitários após a implementação do `ModelMapper` para transformar classes que pertencem ao banco de dados em classes padrão VO.
+
+![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/dba4a8f6-69e0-4b5f-a9b0-0a8c01f531a0)
 
 
 
