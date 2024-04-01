@@ -35,8 +35,10 @@ Nesta seção, a rota `v2` foi criada para adicionar o campo `birthDay` no banco
 
 ![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/a5e6cbec-fa2f-4a45-a5b6-b06eae0298e2)
 
+### 11 - Adicionando suporte à Migrations com Flyway
+Nesta seção, foi adicionada a dependência `Flyway` para realizar migrações no banco de dados. Um script foi criado para a criação do banco de dados e outro para popular as tabelas com dados iniciais.
 
-
+![image](https://github.com/LeonardoScatolin/rest_with_spring_boot_and_java/assets/122055877/f0b2610a-9668-4a93-ac69-58b26eaa4d71)
 
 
 ---
